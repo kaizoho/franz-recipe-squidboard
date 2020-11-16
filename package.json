@@ -1,0 +1,18 @@
+{
+  "id": "squidboard",
+  "name": "SquidBoard",
+  "version": "1.0.2",
+  "description": "A forum dedicated to ripping and sharing music",
+  "main": "index.js",
+  "author": "kazio of nintendh03s",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://squid-board.ru",
+    "hasTeamID": false,
+    "hasCustomUrl": false,
+    "message": "",
+    "urlInputSuffix": false,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
