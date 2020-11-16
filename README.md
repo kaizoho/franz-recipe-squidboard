@@ -1,2 +1,2 @@
 # franz-recipe-squidboard
-Franz Recipe for squid-board.ru
+Franz Recipe for [SquidBoard](https://squid-board.ru)
