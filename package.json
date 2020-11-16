@@ -1,7 +1,7 @@
 {
   "id": "squidboard",
   "name": "SquidBoard",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A forum dedicated to ripping and sharing music",
   "main": "index.js",
   "author": "kazio of nintendh03s",
